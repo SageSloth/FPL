@@ -1,0 +1,1 @@
+lobby should be the players quarters, with a slightly different background depending on the ship, and with a different quarter setup depending on race picked. It should gain decorations that can be enabled when you get achievements. When the game is started the game starts with exiting the quarters into the main area of the ship.

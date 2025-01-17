@@ -1,0 +1,2 @@
+#System #FTL-IP-Concern
+Will respawn dead allies but takes time. If a player dies when it is broken or it is broken during respawn the team have 1 minute to repair it before the player permanently dies. Heals a small amount each jump.

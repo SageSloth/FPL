@@ -1,0 +1,2 @@
+#HasComms #System  
+Allows players to shoot, each missile must be manually loaded, and beams cannot be aimed, instead firing straight forwards out of the ship. Up to 2 players can be controlling the weapons at once
