@@ -1,29 +1,76 @@
 ## Human
-Start with 1 level in everything. Earn more experience. 
-Unarmed - Punch
+#### Details
+- Description: Starts with lv1 skills. Earn more experience
+- Interact Speed: Normal
+- Speed: Normal
+- HP: Normal
+#### Unarmed
+- Description: Punch
+- Damage: Normal
+- Speed: 0.4s
 
+-------------
 ## Rockman #FTL-IP-Concern
-Immune to fire and very high health pool. Slow. Can carry large objects on their own. (IP would need name and graphical change)
-Unarmed - Punch that has massive knockback and disables Mag-boots 
+#### Details
+- Description: Immune to fire, can carry large objects singlehandedly
+- Interact Speed: Normal
+- Speed: Slow
+- HP: High
+#### Unarmed
+- Description: Punch with large reach that has massive knockback and disables Mag-boots
+- Damage: High
+- Speed: 2s
 
+-------------
 ## Zoltan #FTL-IP-Concern
-Can remotely access the ship reactor, and can interact with electronics faster. Very low health. Blow Up on death. (IP could be fixed with rename)
-Unarmed - Stunning blast, a slow firing shot that stuns enemies for .5s
+#### Details
+- Description: Can remotely access the ship reactor, blows up on death.
+- Interact Speed: Fast (electronics)
+- Speed: Normal
+- HP: Very low
+#### Unarmed
+- Description: Ranged blast that stuns for .5s
+- Damage: 5
+- Speed: 1s
 
+-------------
 ## Mantis #FTL-IP-Concern
-Fast when attached to the floor. Slow interaction speed. (IP would need name and graphical change)
-Unarmed - Slash, a very quick attack that boosts you toward your target.
+#### Details
+- Description:
+- Interact Speed: Slow
+- Speed: Fast
+- HP: Normal
+#### Unarmed
+- Description: Slash, boosts you towards your target 
+- Damage: 8
+- Speed: 0.1s
 
+-------------
 ## Lanius #FTL-IP-Concern
-Immune to low oxygen and cannot be knocked off its feet. slowly decreases oxygen in its room. Can slowly heal using scrap. (IP would need name and graphical change)
-Unarmed - Slash, an attack that causes some DoT.
+#### Details
+- Description: Immune to low oxygen and cannot be knocked off its feet, slowly decreases oxygen in its room, Can slowly heal using scrap.
+- Interact Speed: Normal
+- Speed: Normal
+- HP: Normal
+#### Unarmed
+- Description: Slash, deals 50% of damage as DoT over 5s
+- Damage: 20
+- Speed: 1s
 
+-------------
 ## Slug #FTL-IP-Concern
-Can see enemies through walls and access comms anywhere. Slow. (IP would need name and graphical change)
-Unarmed - None
+#### Details
+- Description: Cans see enemies through walls and access comms anywhere.
+- Interact Speed: Normal
+- Speed: Slow
+- HP: Normal
 
+-------------
 ## Engi #FTL-IP-Concern
-Can interact very fast, and heal teammates. Low health. (IP would need name and graphical change)
-Unarmed - None
+#### Details
+- Description: Can heal teammates
+- Interact Speed: Fast
+- Speed: Slightly Fast
+- HP: Low
 
-
+-------------
