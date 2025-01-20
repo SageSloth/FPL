@@ -60,7 +60,7 @@
 -------------
 ## Slug #FTL-IP-Concern
 #### Details
-- Description: Cans see enemies through walls and access comms anywhere.
+- Description: Can see enemies through walls and access comms anywhere.
 - Interact Speed: Normal
 - Speed: Slow
 - HP: Normal
