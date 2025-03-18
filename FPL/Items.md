@@ -68,7 +68,7 @@
 - Description: can be used to repair [[Repairs#System|Hardware Damage]]
 - Weight: Light
 - Melee Damage: 0
-- Size: Medium
+- Size: Small
 
 ----------
 #### Wiring Kit
@@ -76,7 +76,7 @@
 - Description: can be used to repair [[Repairs#System|Power Cables]]
 - Weight: Light
 - Melee Damage: 0 
-- Size: Medium
+- Size: Small
 
 --------
 #### High-Power Fuse
@@ -86,10 +86,17 @@
 - Melee Damage: 10 consumes object
 - Size: Small
 
+
+## Special Items
+	Special Items can be bought at shops or are produced by modules
+
+#### Medkit
+- ID: medkit
+- Description: heals 50hp over 2s
+- Weight: Light 
+- Size: Small
+
 ----------
 #### Space Suit
 - ID: baySuit
 - Description: allows for space walks, cannot be worn inside the rest of the ship
-- Weight: N/A
-- Melee Damage: N/A
-- Size: N/A
