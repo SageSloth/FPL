@@ -17,3 +17,5 @@ Doors can be locked manually from either side, preventing the door from being op
 -------
 #### Disabled Open/Shut
 Doors are disabled when the bridge system is broken, this means that they have to be manually opened and shut, which takes time.
+
+Airlock doors cannot be fused or manually locked
