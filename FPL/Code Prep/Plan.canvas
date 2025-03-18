@@ -97,17 +97,6 @@
       "y": -120
     },
     {
-      "height": 158,
-      "id": "e68e1d2fb25b7546",
-      "styleAttributes": {
-      },
-      "text": "### Day 3 | Decision\nPick an engine and start again, using the knowledge learned.",
-      "type": "text",
-      "width": 260,
-      "x": 280,
-      "y": -98
-    },
-    {
       "height": 160,
       "id": "a486456fe09aefbb",
       "styleAttributes": {
@@ -197,6 +186,28 @@
     },
     {
       "height": 158,
+      "id": "f510d07df9908449",
+      "styleAttributes": {
+      },
+      "text": "### Day 15-16 | Room Damage \nRooms should be able to be damaged, and be able to be fixed through the in-game systems",
+      "type": "text",
+      "width": 640,
+      "x": -480,
+      "y": 460
+    },
+    {
+      "height": 158,
+      "id": "e68e1d2fb25b7546",
+      "styleAttributes": {
+      },
+      "text": "### Day 3 | Decision\nPick an engine and start again, using the knowledge learned.",
+      "type": "text",
+      "width": 260,
+      "x": 280,
+      "y": -98
+    },
+    {
+      "height": 158,
       "id": "5b0ec6559b2657ee",
       "styleAttributes": {
       },
@@ -282,17 +293,6 @@
       "width": 120,
       "x": 920,
       "y": -350
-    },
-    {
-      "height": 158,
-      "id": "f510d07df9908449",
-      "styleAttributes": {
-      },
-      "text": "### Day 15 | \n",
-      "type": "text",
-      "width": 260,
-      "x": -480,
-      "y": 460
     },
     {
       "height": 60,
