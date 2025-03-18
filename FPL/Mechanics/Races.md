@@ -1,6 +1,7 @@
 ## Human
 #### Details
-- Description: Starts with lv1 skills. Earn more experience
+- Description: Regular Human, most common race in the galaxy
+- Abilities: Starts with lv1 skills. Earn experience double
 - Interact Speed: Normal
 - Speed: Normal
 - HP: Normal
@@ -10,9 +11,10 @@
 - Speed: 0.4s
 
 -------------
-## Rockman #FTL-IP-Concern
+## Rockman
 #### Details
-- Description: Immune to fire, can carry large objects singlehandedly
+- Description: A reclusive race made of rock, they are ~4m tall and ~2m wide, towering over every other primary race in the galaxy.
+- Abilities: Reduced damage from fire, can carry large objects singlehandedly
 - Interact Speed: Normal
 - Speed: Slow
 - HP: High
@@ -22,9 +24,10 @@
 - Speed: 2s
 
 -------------
-## Zoltan #FTL-IP-Concern
+## XMX (Zoltan)
 #### Details
-- Description: Can remotely access the ship reactor, blows up on death.
+- Description: A mechanical race, their frame surrounded by an energy field that makes them quite volatile despite their intelligence
+- Abilities: Can remotely access the ship reactor, blows up on death.
 - Interact Speed: Fast (electronics)
 - Speed: Normal
 - HP: Very low
@@ -34,21 +37,22 @@
 - Speed: 1s
 
 -------------
-## Mantis #FTL-IP-Concern
+## (Mantis) #FTL-IP-Concern
 #### Details
-- Description:
+- Description: 
+- Abilities: Attacking while within a couple metres of a target will boost you towards the target.
 - Interact Speed: Slow
 - Speed: Fast
 - HP: Normal
 #### Unarmed
-- Description: Slash, boosts you towards your target 
+- Description: Slash
 - Damage: 8
 - Speed: 0.1s
 
 -------------
-## Lanius #FTL-IP-Concern
+## (Lanius) #FTL-IP-Concern
 #### Details
-- Description: Immune to low oxygen and cannot be knocked off its feet, slowly decreases oxygen in its room, Can slowly heal using scrap.
+- Description: Do not need oxygen and cannot be knocked off its feet, no pocket and low hearing range, Can slowly heal using scrap.
 - Interact Speed: Normal
 - Speed: Normal
 - HP: Normal
@@ -60,13 +64,13 @@
 -------------
 ## Slug #FTL-IP-Concern
 #### Details
-- Description: Cans see enemies through walls and access comms anywhere.
+- Description: Can see enemies through walls and access comms anywhere.
 - Interact Speed: Normal
 - Speed: Slow
 - HP: Normal
 
 -------------
-## Engi #FTL-IP-Concern
+## (Engi)
 #### Details
 - Description: Can heal teammates
 - Interact Speed: Fast

@@ -1,0 +1,342 @@
+{
+  "edges": [
+    {
+      "fromNode": "5b0ec6559b2657ee",
+      "fromSide": "right",
+      "id": "e96e812b3e7f555d",
+      "toNode": "3067a3cae053ef6a",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3067a3cae053ef6a",
+      "fromSide": "right",
+      "id": "4fc401961d8bd682",
+      "styleAttributes": {
+      },
+      "toNode": "e68e1d2fb25b7546",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e68e1d2fb25b7546",
+      "fromSide": "right",
+      "id": "0edef4ca157bd078",
+      "styleAttributes": {
+      },
+      "toNode": "d5fc06b3c458a227",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d5fc06b3c458a227",
+      "fromSide": "right",
+      "id": "fd81261b83abaedd",
+      "styleAttributes": {
+      },
+      "toNode": "37c463a1441e17d7",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "35ac8afcce8ce693",
+      "fromSide": "left",
+      "id": "ac9cea9df75b98ad",
+      "styleAttributes": {
+      },
+      "toNode": "a486456fe09aefbb",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "a486456fe09aefbb",
+      "fromSide": "left",
+      "id": "7460e18c79e1dbd3",
+      "styleAttributes": {
+      },
+      "toNode": "804ccdcaa40277a9",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "37c463a1441e17d7",
+      "fromSide": "right",
+      "id": "05499fa77250c621",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "35ac8afcce8ce693",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "804ccdcaa40277a9",
+      "fromSide": "left",
+      "id": "09c075b8bc8cc726",
+      "styleAttributes": {
+        "pathfindingMethod": "square"
+      },
+      "toNode": "f510d07df9908449",
+      "toSide": "left"
+    }
+  ],
+  "nodes": [
+    {
+      "height": 478,
+      "id": "2f2de985abc87ec9",
+      "label": "Framework",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1460,
+      "x": 640,
+      "y": -120
+    },
+    {
+      "height": 198,
+      "id": "c4202f31d79e6076",
+      "label": "Prep",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 1060,
+      "x": -500,
+      "y": -120
+    },
+    {
+      "height": 158,
+      "id": "e68e1d2fb25b7546",
+      "styleAttributes": {
+      },
+      "text": "### Day 3 | Decision\nPick an engine and start again, using the knowledge learned.",
+      "type": "text",
+      "width": 260,
+      "x": 280,
+      "y": -98
+    },
+    {
+      "height": 160,
+      "id": "a486456fe09aefbb",
+      "styleAttributes": {
+      },
+      "text": "### Day 10-11 | Modules\nSome modules should be coded, with functionality e.g. TP, Medbay",
+      "type": "text",
+      "width": 640,
+      "x": 660,
+      "y": 180
+    },
+    {
+      "height": 160,
+      "id": "35ac8afcce8ce693",
+      "styleAttributes": {
+      },
+      "text": "### Day 8-9 | Items\nMany of the items should be coded in, and some items should be able to perform actions",
+      "type": "text",
+      "width": 640,
+      "x": 1420,
+      "y": 180
+    },
+    {
+      "height": 60,
+      "id": "112ba58fa086e38d",
+      "styleAttributes": {
+      },
+      "text": "1",
+      "type": "text",
+      "width": 260,
+      "x": -480,
+      "y": -320
+    },
+    {
+      "height": 60,
+      "id": "8f232538cf204eb3",
+      "styleAttributes": {
+      },
+      "text": "2",
+      "type": "text",
+      "width": 260,
+      "x": -100,
+      "y": -320
+    },
+    {
+      "height": 60,
+      "id": "edcf3e83d5458f01",
+      "styleAttributes": {
+      },
+      "text": "---\n\n---\n---",
+      "type": "text",
+      "width": 120,
+      "x": -220,
+      "y": -350
+    },
+    {
+      "height": 60,
+      "id": "97ab4d7bc161dc47",
+      "styleAttributes": {
+      },
+      "text": "---\n\n---\n---",
+      "type": "text",
+      "width": 120,
+      "x": 160,
+      "y": -350
+    },
+    {
+      "height": 158,
+      "id": "37c463a1441e17d7",
+      "styleAttributes": {
+      },
+      "text": "## Day 6-7 | Location\nYou should play in a couple of rooms with doors between. ",
+      "type": "text",
+      "width": 640,
+      "x": 1420,
+      "y": -98
+    },
+    {
+      "height": 158,
+      "id": "d5fc06b3c458a227",
+      "styleAttributes": {
+      },
+      "text": "### Day 4-5 | Character\nBasic movement and inventory should be complete. ",
+      "type": "text",
+      "width": 640,
+      "x": 660,
+      "y": -98
+    },
+    {
+      "height": 158,
+      "id": "5b0ec6559b2657ee",
+      "styleAttributes": {
+      },
+      "text": "### Day 1 | Unreal\nStart fresh with BP project, try to get a playable character and interactables",
+      "type": "text",
+      "width": 260,
+      "x": -480,
+      "y": -98
+    },
+    {
+      "height": 158,
+      "id": "3067a3cae053ef6a",
+      "styleAttributes": {
+      },
+      "text": "### Day 2 | Unity\nStart a Unity project, try to get a playable character and interactables",
+      "type": "text",
+      "width": 260,
+      "x": -100,
+      "y": -98
+    },
+    {
+      "height": 160,
+      "id": "804ccdcaa40277a9",
+      "styleAttributes": {
+      },
+      "text": "## Day 12-14 | Multiplayer\nBe able to have multiple players in the same game via p2p. They all need to be able to properly interact with the world.",
+      "type": "text",
+      "width": 1020,
+      "x": -480,
+      "y": 180
+    },
+    {
+      "height": 60,
+      "id": "bf57bc381742ced0",
+      "styleAttributes": {
+      },
+      "text": "3",
+      "type": "text",
+      "width": 260,
+      "x": 280,
+      "y": -320
+    },
+    {
+      "height": 60,
+      "id": "e04402429e7e13b5",
+      "styleAttributes": {
+      },
+      "text": "4",
+      "type": "text",
+      "width": 260,
+      "x": 660,
+      "y": -320
+    },
+    {
+      "height": 60,
+      "id": "122af9f8a96de16e",
+      "styleAttributes": {
+      },
+      "text": "---\n\n---\n---",
+      "type": "text",
+      "width": 120,
+      "x": 540,
+      "y": -350
+    },
+    {
+      "height": 60,
+      "id": "02d3c7e044b50a58",
+      "styleAttributes": {
+      },
+      "text": "5",
+      "type": "text",
+      "width": 260,
+      "x": 1040,
+      "y": -320
+    },
+    {
+      "height": 60,
+      "id": "1e821350b0c61aa6",
+      "styleAttributes": {
+      },
+      "text": "---\n\n---\n---",
+      "type": "text",
+      "width": 120,
+      "x": 920,
+      "y": -350
+    },
+    {
+      "height": 158,
+      "id": "f510d07df9908449",
+      "styleAttributes": {
+      },
+      "text": "### Day 15 | \n",
+      "type": "text",
+      "width": 260,
+      "x": -480,
+      "y": 460
+    },
+    {
+      "height": 60,
+      "id": "b629486cafbfae02",
+      "styleAttributes": {
+      },
+      "text": "6",
+      "type": "text",
+      "width": 260,
+      "x": 1420,
+      "y": -320
+    },
+    {
+      "height": 60,
+      "id": "115b43597712a880",
+      "styleAttributes": {
+      },
+      "text": "---\n\n---\n---",
+      "type": "text",
+      "width": 120,
+      "x": 1300,
+      "y": -350
+    },
+    {
+      "height": 60,
+      "id": "a45dac8444b27a1a",
+      "styleAttributes": {
+      },
+      "text": "7",
+      "type": "text",
+      "width": 260,
+      "x": 1800,
+      "y": -320
+    },
+    {
+      "height": 60,
+      "id": "dc0e0510ae4b20b0",
+      "styleAttributes": {
+      },
+      "text": "---\n\n---\n---",
+      "type": "text",
+      "width": 120,
+      "x": 1680,
+      "y": -350
+    }
+  ]
+}
