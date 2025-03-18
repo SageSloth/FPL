@@ -13,3 +13,5 @@ Backspace - Deny
 Shift - Sprint // Accelerate on rail
 Ctrl - Retract cable // Decelerate on rail
 Alt - Silent walk
+V - Comm
+C - Push/Toggle to talk
