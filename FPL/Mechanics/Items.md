@@ -33,7 +33,39 @@
 
 #### Assault Rifle
 - ID: gun
-- Description: standard issue weapon (4 damage 12 shots/s 15 bullets 5 mags 3s reload)
+- Description: standard issue weapon (4 damage 12 shots/s 18 bullets 3s reload)
+- Weight: Medium 
+- Melee Damage: 15
+- Size: Medium
+
+-------------
+#### Pistol
+- ID: littlegun
+- Description: standard issue weapon (3.5 damage 8 shots/s 12 bullets 1.5s reload)
+- Weight: Medium 
+- Melee Damage: 15
+- Size: Medium
+
+-------------
+#### Shotgun
+- ID: gun
+- Description: standard issue weapon (40 damage .75 shots/s 5 bullets 5s reload)
+- Weight: Medium 
+- Melee Damage: 15
+- Size: Medium
+
+-------------
+#### SMG
+- ID: gun
+- Description: standard issue weapon (3 damage 30 shots/s 25 bullets 2s reload)
+- Weight: Medium 
+- Melee Damage: 15
+- Size: Medium
+
+-------------
+#### Rifle
+- ID: gun
+- Description: standard issue weapon (20 damage 2 shots/s 6 bullets 5s reload)
 - Weight: Medium 
 - Melee Damage: 15
 - Size: Medium

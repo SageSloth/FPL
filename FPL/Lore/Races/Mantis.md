@@ -1,0 +1,2 @@
+## Origin
+It is a great coincidence that this race appears so similar to insects on Earth, their origin planet had an extremely similar set of conditions to the Carboniferous period, leading to the their ecosystem being completely dominated by insect-like creatures. Despite their lack of dextrous appendages they still managed to develop rapidly as a race, reaching scientific milestones at a similar rate to humanity. 

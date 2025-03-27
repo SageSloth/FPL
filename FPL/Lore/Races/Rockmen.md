@@ -9,7 +9,7 @@ They have flat surface on the top of their head, with a very prominent jaw that 
 ----------
 ## Types / Races
 1. 34% - Rhyolite
-2. 30% - Felsic
+2. 30% - ???
 3. 29% - Granite
 4. 3% -  ???
 5. 2% - Pyroxene, ???
