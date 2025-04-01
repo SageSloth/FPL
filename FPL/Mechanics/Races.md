@@ -1,14 +1,14 @@
 ## Human
 #### Details
 - Description: Regular Human, most common race in the galaxy
-- Abilities: Starts with lv1 skills. Earn experience double
+- Abilities: Starts with lv1 skills. Earn double experience. Quicker at using items
 - Interact Speed: Normal
 - Speed: Normal
 - HP: Normal
 #### Unarmed
 - Description: Punch
-- Damage: Normal
-- Speed: 0.4s
+- Damage: 11
+- Speed: 0.5s
 
 -------------
 ## Rockman
@@ -20,11 +20,11 @@
 - HP: High
 #### Unarmed
 - Description: Punch with large reach that has massive knockback and disables Mag-boots
-- Damage: High
+- Damage: 50
 - Speed: 2s
 
 -------------
-## XMX (Zoltan)
+## ORIS (Zoltan)
 #### Details
 - Description: A mechanical race, their frame surrounded by an energy field that makes them quite volatile despite their intelligence
 - Abilities: Can remotely access the ship reactor, blows up on death.
@@ -52,7 +52,7 @@
 -------------
 ## (Lanius) #FTL-IP-Concern
 #### Details
-- Description: Do not need oxygen and cannot be knocked off its feet, no pocket and low hearing range, Can slowly heal using scrap.
+- Description: Does not need oxygen and cannot be knocked off its feet, no pocket and low hearing range, Can slowly heal using scrap.
 - Interact Speed: Normal
 - Speed: Normal
 - HP: Normal
